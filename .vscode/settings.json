@@ -1,0 +1,29 @@
+{
+	"editor.fontSize": 16,
+	"terminal.integrated.fontSize": 15,
+	"terminal.integrated.automationShell.windows": "",
+	"explorer.confirmDragAndDrop": false,
+	"editor.renderWhitespace": "all",
+	"editor.minimap.enabled": false,
+	"gitlens.advanced.messages": {
+		"suppressGitMissingWarning": true
+	},
+	"window.zoomLevel": -1,
+	"explorer.confirmDelete": false,
+	"redhat.telemetry.enabled": false,
+	"editor.tabSize": 2,
+	"terraform-ls.terraformExecPath": "/usr/local/bin/terraform-ls",
+	"terraform.languageServer": {
+		"external": true,
+		"pathToBinary": "/usr/local/bin/terraform-ls",
+		"args": [
+			"serve"
+		],
+		"ignoreSingleFileWarning": false
+	},
+	"yaml.format.printWidth": 72,
+	"editor.wordWrap": "bounded",
+	"editor.wordWrapColumn": 72,
+	"editor.accessibilitySupport": "off",
+	"prettier.printWidth": 72
+}
