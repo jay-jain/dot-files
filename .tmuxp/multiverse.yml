@@ -1,0 +1,7 @@
+session_name: local
+windows:
+  - window_name: nav
+    layout: even-horizontal
+    panes:
+      -
+      -
